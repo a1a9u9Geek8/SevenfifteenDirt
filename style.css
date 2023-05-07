@@ -9,7 +9,7 @@ body {
     display: flex;
     min-height: 100vh;
      background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url(./pictures/SEVENFIFTEEN.jpg)center/cover no-repeat fixed;
+     url(/SEVENFIFTEEN.jpg)center/cover no-repeat fixed;
      flex-direction: column;
     margin-top: auto; 
 }
